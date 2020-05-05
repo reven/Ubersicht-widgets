@@ -1,0 +1,3 @@
+[submodule "diskMeter"]
+	path = diskMeter
+	url = https://github.com/reven/uebersicht-widget-diskMeter.git
